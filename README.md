@@ -1,7 +1,7 @@
 # Traitor
 
 Contrary to popular belief, Lorem Ipsum is not simply random text.
-
+are many variations of passages of Lorem Ipsum availab
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
 Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities (including most of [GTFOBins](https://gtfobins.github.io/)) in order to pop a root shell.
